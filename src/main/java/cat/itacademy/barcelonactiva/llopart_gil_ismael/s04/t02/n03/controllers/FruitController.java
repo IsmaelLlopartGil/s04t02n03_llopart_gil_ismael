@@ -7,7 +7,6 @@ import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import cat.itacademy.barcelonactiva.llopart_gil_ismael.s04.t02.n03.model.domain.Fruit;
 import cat.itacademy.barcelonactiva.llopart_gil_ismael.s04.t02.n03.model.services.FruitService;
 
